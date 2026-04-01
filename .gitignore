@@ -1,0 +1,16 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Node (in case npm is used later)
+node_modules/
+package-lock.json
+
+# Misc
+*.log
+.env
